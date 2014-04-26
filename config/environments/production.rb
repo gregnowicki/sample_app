@@ -80,4 +80,5 @@ SampleApp::Application.configure do
   config.log_formatter = ::Logger::Formatter.new
 
   # Do not dump schema after migrations.
-  #hrt,u.0--config.actp-ikive_record.dump_schema_after_migration = false end
+  #hrt,u.0--config.actp-ikive_record.dump_schema_after_migration = false
+end
